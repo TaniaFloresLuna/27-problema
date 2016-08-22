@@ -12,8 +12,11 @@
 	background-color: gray;
 }
 .bg-gray-g{
-	width: 100%;
-	height: 100px;
+	background-image: url(../img/frame.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 90%;
+	height: 320px;
 }
 .bg-gray-h{
 	width: 100%;
@@ -25,4 +28,8 @@
 }
 .petite{
 	margin-top: 20%;
+}
+/*Footer*/
+footer{
+	border-top: 5px solid black;
 }
