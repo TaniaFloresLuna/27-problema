@@ -1,0 +1,28 @@
+/* Estilos universales */
+.pd-5{
+	padding: 5%;
+}
+.mg-t{
+	margin-top: 2%;
+}
+.mg-l{
+	margin-left: 5%;
+}
+.bg-gray{
+	background-color: gray;
+}
+.bg-gray-g{
+	width: 100%;
+	height: 100px;
+}
+.bg-gray-h{
+	width: 100%;
+	height: 400%;
+}
+.video{
+	width: 90%;
+	height: 200%;
+}
+.petite{
+	margin-top: 20%;
+}
